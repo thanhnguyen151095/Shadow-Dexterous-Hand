@@ -29,4 +29,4 @@ Block Rotate Parallel | Egg Rotate|
   
 - Open AI: https://doi.org/10.48550/arXiv.1707.01495
   
-- Environment: https://robotics.farama.org/envs/fetch/
+- Environment: https://robotics.farama.org/envs/shadow_dexterous_hand/
