@@ -23,9 +23,9 @@ Block Rotate Parallel | Egg Rotate|
 # Reference
 - TD3: https://arxiv.org/abs/1802.09477
   
-- DDPG:
+- DDPG: https://proceedings.mlr.press/v32/silver14.pdf
 
-- HER: 
+- HER: https://arxiv.org/abs/1707.01495
   
 - Open AI: https://doi.org/10.48550/arXiv.1707.01495
   
